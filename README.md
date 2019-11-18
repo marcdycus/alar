@@ -22,9 +22,9 @@ This will actually read a file and literally do what it says.
 
 # The way it works
 
-Open the app in terminal and begin by typing "node liri.js <one of the 4 options> and <your inquiry>
+Open the app in terminal and begin by typing "node liri.js" and (one of the 4 options) and (your inquiry)
 
 `concert-this` should look something like this:
 
 ![gify of screen recording]
-(https://giphy.com/gifs/VhjGBIpynXro6XwVcC)
+(https://media.giphy.com/media/VhjGBIpynXro6XwVcC/giphy.gif)
