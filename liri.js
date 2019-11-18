@@ -48,7 +48,7 @@ getMyBand = artist => {
                 console.log("Venue: " + response.data[i].venue.name);
                 console.log("Venue Location: " + response.data[i].venue.city + ", " + response.data[i].venue.region + ", " + response.data[i].venue.country);
                 console.log("Time: " + response.data[i].datetime);
-                console.log("Time: " + response.data[i].lineup);
+                console.log("Lineup: " + response.data[i].lineup);
                 console.log("-------------------------------------------");
             }
         }
