@@ -26,5 +26,4 @@ Open the app in terminal and begin by typing "node liri.js" and (one of the 4 op
 
 `concert-this` should look something like this:
 
-![gify of screen recording]
-(assets/images/concert.gif)
+![concert gify](https://media.giphy.com/media/VhjGBIpynXro6XwVcC/giphy.gif)
