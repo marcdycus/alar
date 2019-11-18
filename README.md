@@ -6,9 +6,12 @@
 3) Movie information about a movie of your choice
 
 By typing one of the following commands **after typing "node liri.js**, it will give you the information listed above, respectively:
-A) `concert-this` + <name of band>
-B) `spotify-this` + <name of song>
-C) `movie-this` + <name of movie>
+
+A) `concert-this` + (name of band),
+
+B) `spotify-this` + (name of song),
+
+C) `movie-this` + (name of movie)
 
 And lastly: 
 
